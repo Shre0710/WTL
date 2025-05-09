@@ -1,0 +1,28 @@
+﻿
+            Employee ID: 001
+            
+Name: SanjanaPatil
+            
+Department: IT
+            
+Post: Software Engineer
+            
+Salary: 200000
+            Employee ID: 002
+            
+Name: TaraKale
+            
+Department: HR
+            
+Post: HR Manager
+            
+Salary: 700000
+            Employee ID: 003
+            
+Name: ShreyaPatil
+            
+Department: Finance
+            
+Post: Accountant
+            
+Salary: 400000

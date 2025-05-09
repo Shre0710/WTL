@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="student.xsl"?>
+
+<students>
+  <student>
+    <name>Shreya Bhaurao Patil</name>
+    <email>shreyapatil04@gmail.com</email>
+    <phone>+91 9370454455</phone>
+    <address>Kasba Bawda, Kolhapur, Maharashtra, India</address>
+  </student>
+  
+  <student>
+    <name>Trupti Kandalker</name>
+    <email>trupti.kandalker@email.com</email>
+    <phone>+91 9876543210</phone>
+    <address>Gandhi Nagar, Pune, Maharashtra, India</address>
+  </student>
+  
+  <student>
+    <name>Srujana Toukare</name>
+    <email>srujana.toukare@email.com</email>
+    <phone>+91 8765432109</phone>
+    <address>MG Road, Mumbai, Maharashtra, India</address>
+  </student>
+</students>

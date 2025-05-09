@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="group.xsl"?>
+<group>
+  <member>
+    <name>Mayur</name>
+    <rollno>46</rollno>
+    <cgpa>8</cgpa>
+    <role>Leader</role>
+  </member>
+  <member>
+    <name>bhagya</name>
+    <rollno>47</rollno>
+    <cgpa>8.2</cgpa>
+    <role>Member</role>
+  </member>
+  <member>
+    <name>Shreya</name>
+    <rollno>51</rollno>
+    <cgpa>8</cgpa>
+    <role>Member</role>
+  </member>
+  <member>
+    <name>Shree</name>
+    <rollno>41</rollno>
+    <cgpa>8.5</cgpa>
+    <role>Member</role>
+  </member>
+  <member>
+    <name>Raj</name>
+    <rollno>89</rollno>
+    <cgpa>8.8</cgpa>
+    <role>Member</role>
+  </member>
+</group>

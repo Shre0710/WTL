@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="employee.xsl"?>
+
+<employees>
+  <employee>
+    <employee_id>001</employee_id>
+    <first_name>Sanjana</first_name>
+    <last_name>Patil</last_name>
+    <department>IT</department>
+    <post>Software Engineer</post>
+    <salary>200000</salary>
+  </employee>
+  <employee>
+    <employee_id>002</employee_id>
+    <first_name>Tara</first_name>
+    <last_name>Kale</last_name>
+    <department>HR</department>
+    <post>HR Manager</post>
+    <salary>700000</salary>
+  </employee>
+  <employee>
+    <employee_id>003</employee_id>
+    <first_name>Shreya</first_name>
+    <last_name>Patil</last_name>
+    <department>Finance</department>
+    <post>Accountant</post>
+    <salary>400000</salary>
+  </employee>
+</employees>
