@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<company>
+  <staff>
+    <id>001</id>
+    <name>Sanjana Patil</name>
+    <division>IT</division>
+    <designation>Software Engineer</designation>
+    <income>200000</income>
+  </staff>
+  <staff>
+    <id>002</id>
+    <name>Tara Kale</name>
+    <division>HR</division>
+    <designation>HR Manager</designation>
+    <income>700000</income>
+  </staff>
+  <staff>
+    <id>003</id>
+    <name>Shreya Patil</name>
+    <division>Finance</division>
+    <designation>Accountant</designation>
+    <income>400000</income>
+  </staff>
+</company>

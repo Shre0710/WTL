@@ -1,0 +1,23 @@
+﻿
+        Student Information:
+        ----------------------
+        
+        
+        Name: Shreya Bhaurao Patil
+        Email: shreyapatil04@gmail.com
+        Phone: +91 9370454455
+        Address: Kasba Bawda, Kolhapur, Maharashtra, India
+
+        
+        Name: Trupti Kandalker
+        Email: trupti.kandalker@email.com
+        Phone: +91 9876543210
+        Address: Gandhi Nagar, Pune, Maharashtra, India
+
+        
+        Name: Srujana Toukare
+        Email: srujana.toukare@email.com
+        Phone: +91 8765432109
+        Address: MG Road, Mumbai, Maharashtra, India
+
+        

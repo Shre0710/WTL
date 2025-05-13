@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<team>
+  <participant>
+    <id>46</id>
+    <full_name>Mayur</full_name>
+    <score>8</score>
+    <position>Leader</position>
+  </participant>
+  <participant>
+    <id>47</id>
+    <full_name>bhagya</full_name>
+    <score>8.2</score>
+    <position>Member</position>
+  </participant>
+  <participant>
+    <id>51</id>
+    <full_name>Shreya</full_name>
+    <score>8</score>
+    <position>Member</position>
+  </participant>
+  <participant>
+    <id>41</id>
+    <full_name>Shree</full_name>
+    <score>8.5</score>
+    <position>Member</position>
+  </participant>
+  <participant>
+    <id>89</id>
+    <full_name>Raj</full_name>
+    <score>8.8</score>
+    <position>Member</position>
+  </participant>
+</team>

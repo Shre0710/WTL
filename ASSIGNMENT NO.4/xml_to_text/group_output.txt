@@ -1,0 +1,36 @@
+﻿
+            Name: Mayur
+            
+Roll No: 46
+            
+CGPA: 8
+            
+Role: Leader
+            Name: bhagya
+            
+Roll No: 47
+            
+CGPA: 8.2
+            
+Role: Member
+            Name: Shreya
+            
+Roll No: 51
+            
+CGPA: 8
+            
+Role: Member
+            Name: Shree
+            
+Roll No: 41
+            
+CGPA: 8.5
+            
+Role: Member
+            Name: Raj
+            
+Roll No: 89
+            
+CGPA: 8.8
+            
+Role: Member

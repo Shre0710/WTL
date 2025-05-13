@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Registration Form</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        form { max-width: 500px; }
+        input, select { width: 100%; padding: 8px; margin: 5px 0 15px; }
+        input[type="radio"] { width: auto; margin-right: 10px; }
+    </style>
+</head>
+<body>
+
+<h2>Student Exam Registration</h2>
+
+<form>
+    <label>Full Name: </label>
+    <input type="text" name="name" required><br>
+
+    <label>Roll Number: </label>
+    <input type="text" name="roll_number" required><br>
+
+    <label>Unique ID: </label>
+    <input type="text" name="Unique_Id" required><br>
+
+    <label>Email: </label>
+    <input type="email" name="email" required><br>
+
+    <label>Subject: </label>
+    <select name="subject" required>
+        <option value="">Select the subject</option>
+        <option value="IS">Information Security</option>
+        <option value="OE">Open Elective</option>
+        <option value="CD">Compiler Design</option>
+        <option value="OS">Operating System</option>
+    </select><br>
+
+    <label>City: </label>
+    <input type="text" name="city" required><br>
+
+    <label>Gender: </label><br>
+    <input type="radio" name="gender" value="male" required> Male
+    <input type="radio" name="gender" value="female"> Female
+    <input type="radio" name="gender" value="other"> Other<br>
+
+    <label>Age: </label>
+    <input type="number" name="age"><br>
+
+    <input type="submit" value="Register">
+</form>
+
+</body>
+</html>

@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title> Growing Text with User Input</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      margin-top: 80px;
+      background: #f9f9f9;
+    }
+    #growingText {
+      color: rgb(208, 99, 211);
+      font-size: 16pt;
+      margin-top: 30px;
+      min-height: 40px;
+      transition: font-size 0.1s;
+    }
+    input[type="text"] {
+      padding: 8px;
+      font-size: 16px;
+    }
+    button {
+      padding: 8px 16px;
+      font-size: 16px;
+      margin-left: 8px;
+    }
+  </style>
+</head>
+<body>
+  <h2> Growing Text with User Input</h2>
+  <form id="textForm" onsubmit="startGrowing(event)">
+    <input type="text" id="userInput" placeholder="Enter your text" required>
+    <button type="submit">Show & Grow</button>
+  </form>
+  <p id="growingText"></p>
+
+  <script>
+    let interval = null;
+
+    function startGrowing(event) {
+      event.preventDefault(); // Prevent form submission
+      const text = document.getElementById('userInput').value;
+      const display = document.getElementById('growingText');
+      display.textContent = text;
+      display.style.fontSize = "16pt";
+      let fontSize = 16;
+
+      // Clear any previous interval
+      if (interval) clearInterval(interval);
+
+      interval = setInterval(() => {
+        fontSize += 2;
+        display.style.fontSize = fontSize + "pt";
+        if (fontSize >= 50) {
+          clearInterval(interval);
+        }
+      }, 100);
+    }
+  </script>
+</body>
+</html>
